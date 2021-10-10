@@ -13,7 +13,7 @@ dependencies:
   latlong: ^0.6.1
 
   flutter_floating_map_marker_titles_core: ^0.0.3+3
-  flutter_map: ^0.12.0
+  flutter_map: ^0.13.1
 
 dev_dependencies:
   flutter_test:
